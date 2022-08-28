@@ -30,7 +30,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 MIT
 
-![Images](Images/Project.png)
+![Images](images/Project.png)
 
 
 
