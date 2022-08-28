@@ -30,7 +30,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 MIT
 
-![Lorem picsum görsel](https://resimag.com/p1/569d75845997.png)
+![Images](Images/Project.png)
 
 
 
