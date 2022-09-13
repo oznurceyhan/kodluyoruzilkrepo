@@ -37,6 +37,6 @@ MIT
 [Link bilgisi](https://patika.dev)
 
 
-[Link bilgisi](https://github.com/öznurceyhan/kodluyoruzilkrepo.git)
+[Link bilgisi](https://github.com/oznurceyhan/kodluyoruzilkrepo.git)
 
 
